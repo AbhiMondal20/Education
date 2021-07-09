@@ -1,0 +1,74 @@
+body{
+    background-image: url('C:/ABHI MONDAL/Education/edu.jpg');
+    height: min-content;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+
+.container
+{
+    margin: 50px,50px,50px,50px;
+    width: 50px;    
+}
+.nav-link , .navbar-brand
+{
+    color:white;
+    
+}
+.h2
+{
+    text-align: left;
+    float:left;
+}
+.writer
+{
+    width: 650px;
+    float:left;
+    padding-left: 20px;
+}
+.writer h2{
+   
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    opacity: 0.8;
+    color: rgb(2, 1, 1);
+    
+   
+}
+.writer h2:hover
+{
+    color:#6d0d65;
+}
+.writer h6{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-transform: capitalize;
+width: 600px;
+position:absolute;
+top: 25%;
+opacity: 0.9;
+
+}
+.writer h6:hover
+{
+    color: #6d0d65;
+}
+.writer form input[type="submit"]
+{
+    position: absolute;
+    top: 20%;
+    right:16%;
+    border: 1px;
+    color: wheat;
+    background-color: crimson;
+    text-transform: uppercase;
+    padding: 10px;
+}
+.writer form input[type="submit"]:hover
+{
+    background-color: rgb(110, 88, 15);
+}
+
